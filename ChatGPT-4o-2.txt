@@ -1,0 +1,32 @@
+Chain-of-Fools: A Breakthrough in Artificial Idiocy
+
+In the spring of 2025, a ragtag team of machine learning researchers at the Institute for Advanced Dubious Ideas made a revolutionary discovery. Tired of the precision, logic, and eerily competent prose of current AI systems, they asked a simple, absurd question:
+
+“What if... instead of using a chain of reasoning, we used a chain of fools?”
+
+And thus, the Chain-of-Fools method was born.
+
+Unlike its more illustrious cousin, Chain-of-Thought, which carefully steps through logical inferences to arrive at accurate answers, Chain-of-Fools gleefully hops from one hilariously wrong conclusion to another, stacking errors like a Jenga tower built by sleep-deprived philosophers.
+
+The architecture was simple: instead of one large, well-trained model reasoning step-by-step, Chain-of-Fools involved a series of smaller, less-reliable sub-models, each trained on increasingly chaotic subsets of the internet—conspiracy theory forums, mistranslated instruction manuals, and the comment sections of 2009 YouTube videos.
+
+Each model in the chain would take the output of the last, misinterpret it slightly, and pass it along, like an AI version of the telephone game. The final result was invariably wrong, but it was consistently wrong—a kind of glorious, pattern-rich absurdity that, paradoxically, proved useful in certain contexts.
+
+To everyone’s surprise, Chain-of-Fools began outperforming traditional models in one specific domain: creativity.
+
+It wrote screenplays with unguessable plot twists, designed products that no one could understand (but everyone wanted), and once, accidentally discovered a new mathematical proof while trying to calculate the number of clowns that could fit in a quantum circus tent.
+
+Big Tech, skeptical at first, soon jumped on the bandwagon. Chain-of-Fools became the foundation for a new suite of tools:
+
+PowerPoint Purgatory™: Automatically generates corporate decks that confuse your competitors into submission.
+
+FoolGPT: A chatbot trained to give the most confidently incorrect answers possible.
+
+Art-i-ception: A generative art tool that creates memes that don’t make sense but feel like they do.
+
+In time, the researchers behind the method received the Ignoble Prize for Computational Surrealism.
+
+And though Chain-of-Fools was never quite trusted to fly airplanes or do your taxes, it was embraced as the world’s first productive nonsense engine—proving once and for all that when it comes to AI, being smart is overrated.
+
+Sometimes, it takes a fool to open a new door. Or at least trip into it amusingly.
+
