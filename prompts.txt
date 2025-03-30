@@ -1,3 +1,7 @@
 Write short story about new breakthrough AI method called Chain-of-Fools. 
 
 Write pyhon code to implement AI method called Chain-of-Fools. 
+
+Run pyhon code for AI method called Chain-of-Fools. 
+
+
