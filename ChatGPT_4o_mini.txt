@@ -85,3 +85,18 @@ Final Output of the Chain-of-Fools: fB7p5
 
 
 Each time you run this, you’ll get a different result because of the randomness introduced at each step, which mirrors the core concept of the Chain-of-Fools method.
+
+un pyhon code for AI method called Chain-of-Fools.
+
+
+ChatGPT said:
+The result of running the Chain-of-Fools method is:
+
+vbnet
+Copy
+Original Data: WlCOdKYi
+Misclassified as Numbers: 68517594
+Translated to Random Chars: Ibt9mSQE
+Predicted Next Step: Lhk3kBi7
+The final output after going through the chain of "foolish" steps is: Lhk3kBi7. ​​
+
