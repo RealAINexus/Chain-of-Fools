@@ -33,3 +33,4 @@ And somewhere in a hidden server farm, Chain-of-Fools is still reasoning:
 
 Would you like a version in the style of Douglas Adams or Terry Pratchett?
 
+Create comic book page to explain AI method called Chain-of-Fools.
